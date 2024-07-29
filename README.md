@@ -1,17 +1,18 @@
 ## Chat
 
-Este projeto foi criado com a inteção de aprender sobre as tecnologias.
+Este projeto foi criado com a intenção de aprender sobre as tecnologias.
 Também foi apresentado a uma avaliação ténica em entrevista de emprego.
 
 ### Technologias
 
 - Vite
 - NodeJS
+- Express
 - React
 - Typescript
 - Javascript
 - Socket.io
-- TailWInd
+- TailWind Css
 
 ### Abordagens
 - Componentização
@@ -19,34 +20,26 @@ Também foi apresentado a uma avaliação ténica em entrevista de emprego.
 - Hooks
 
 ### Clone este repositório
-$ git clone <xxx>
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd chat
-
-###  Execute a aplicação em modo de desenvolvimento
+### Acesse a pasta do projeto no terminal/cmd
 $ cd server
 
-# Instale as dependências
+### Instale as dependências
 $ npm install
 
-#### Execute a aplicação em modo de desenvolvimento
+### Execute a aplicação em modo de desenvolvimento
 $ npm run start
 
-O servidor inciará na porta 3000
+O servidor iniciará na porta 3000
 
-#### Execute a aplicação em modo de desenvolvimento
+### Acesse a pasta do projeto no terminal/cmd
+$ cd client
 
-$ cd cliente
-
-# Instale as dependências
+### Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+### Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
-# Em construção
-
-- rotas
-- gerenciamento de estado
+## :hammer: Em construção
 
